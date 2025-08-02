@@ -1,4 +1,4 @@
-//Nivel Mestre//Nivel Mestre
+//Nivel Mestre
 
 #include <stdio.h>
 
@@ -95,3 +95,4 @@
         printf("Super Poder: %s\n", (Poder1 > Poder2) ? "Carta 1 venceu" : ((Poder1 < Poder2) ? "Carta 2 venceu" : "Empate"));
         return 0;
     }
+
